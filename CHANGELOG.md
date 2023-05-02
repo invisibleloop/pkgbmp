@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/invisibleloop/pkgbmp/compare/v1.0.0...v1.1.0) (2023-05-02)
+
+
+### Features
+
+* npm release yml ([2574c0b](https://www.github.com/invisibleloop/pkgbmp/commit/2574c0bd32c08d6d84b14514e300e8dfc19074cf))
+
 ## 1.0.0 (2023-05-02)
 
 
