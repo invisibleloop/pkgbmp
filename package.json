@@ -1,6 +1,6 @@
 {
   "name": "pkgbmp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Check your package.json files for outdated packages and bump 'em up!",
   "type": "module",
   "main": "./src/index.js",
