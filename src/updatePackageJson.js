@@ -3,8 +3,7 @@
 import fs from 'fs';
 import path from 'path';
 
-export default async (packageJsonPath, updatedPackages, newFile, latest) => {
-  // console.log('updatedPackages', updatedPackages);
+export default (packageJsonPath, updatedPackages, newFile, latest) => {
   const packageJson = JSON.parse(fs.readFileSync(packageJsonPath, 'utf-8'));
 
   for (const updatedPackage of updatedPackages) {

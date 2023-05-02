@@ -1,0 +1,10 @@
+{
+  "lint": {
+    "files": {
+      "include": ["src/", "tests/"]
+    },
+    "rules": {
+      "tags": ["recommended"]
+    }
+  }
+}

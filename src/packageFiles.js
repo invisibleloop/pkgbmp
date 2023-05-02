@@ -2,7 +2,7 @@
 
 import glob from 'fast-glob';
 
-export default async (recursive) => {
+export default (recursive) => {
   const searchPattern = recursive ? '**/package.json' : 'package.json';
   
   const packageFiles = glob.sync(searchPattern, { ignore: ['**/node_modules/**', '**/tests/**'] });
