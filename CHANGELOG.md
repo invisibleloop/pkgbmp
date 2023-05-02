@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.0...v1.1.1) (2023-05-02)
+
+
+### Bug Fixes
+
+* merge conflict ([61ffeda](https://www.github.com/invisibleloop/pkgbmp/commit/61ffeda72cfc8148306c614fb9d8b26b380c298a))
+* npm node version ([2d67b69](https://www.github.com/invisibleloop/pkgbmp/commit/2d67b692721c327c8eedd6017b8f88addfbf3c1f))
+
 ## [1.1.0](https://www.github.com/invisibleloop/pkgbmp/compare/v1.0.0...v1.1.0) (2023-05-02)
 
 
