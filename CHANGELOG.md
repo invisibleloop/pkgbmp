@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.2](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.1...v1.1.2) (2023-05-02)
+
+
+### Bug Fixes
+
+* npm actions version ([b4f2fa6](https://www.github.com/invisibleloop/pkgbmp/commit/b4f2fa6d0849efabd178f5fe6837ac486afb655f))
+
 ### [1.1.1](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.0...v1.1.1) (2023-05-02)
 
 
