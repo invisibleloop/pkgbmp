@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.4](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.3...v1.1.4) (2023-05-02)
+
+
+### Bug Fixes
+
+* npm release yml ([2329859](https://www.github.com/invisibleloop/pkgbmp/commit/2329859328c51e1e4a6ee568e2d589ccb1a4f60d))
+
 ### [1.1.3](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.2...v1.1.3) (2023-05-02)
 
 
