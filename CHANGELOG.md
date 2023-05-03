@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.5](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.4...v1.1.5) (2023-05-02)
+
+
+### Bug Fixes
+
+* missing packages ([f6c88c2](https://www.github.com/invisibleloop/pkgbmp/commit/f6c88c2563e4715355e99d134b55f9e0f1bd92a1))
+
 ### [1.1.4](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.3...v1.1.4) (2023-05-02)
 
 
