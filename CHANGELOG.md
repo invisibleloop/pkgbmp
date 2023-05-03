@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.9](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.8...v1.1.9) (2023-05-03)
+
+
+### Bug Fixes
+
+* remove semantic ([f2ad503](https://www.github.com/invisibleloop/pkgbmp/commit/f2ad503648c486b54498692709232cf0facefae6))
+
 ### [1.1.8](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.7...v1.1.8) (2023-05-03)
 
 
