@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.8](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.7...v1.1.8) (2023-05-03)
+
+
+### Bug Fixes
+
+* package name in json ([719ad71](https://www.github.com/invisibleloop/pkgbmp/commit/719ad713ce749e61850544fab187d1458a646bc2))
+
 ### [1.1.7](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.6...v1.1.7) (2023-05-03)
 
 
