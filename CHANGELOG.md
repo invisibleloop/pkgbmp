@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.6](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.5...v1.1.6) (2023-05-03)
+
+
+### Bug Fixes
+
+* fetch depth ([041c17d](https://www.github.com/invisibleloop/pkgbmp/commit/041c17d25b6bb57a7504471ab21e1ebca5eab2cd))
+
 ### [1.1.5](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.4...v1.1.5) (2023-05-02)
 
 
