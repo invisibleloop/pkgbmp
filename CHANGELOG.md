@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.10](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.9...v1.1.10) (2023-05-10)
+
+
+### Bug Fixes
+
+* clii keyword typo ([9ff6e80](https://www.github.com/invisibleloop/pkgbmp/commit/9ff6e807cef36f86da8f1c4e4bcf6beaf7ba3c24))
+
 ### [1.1.9](https://www.github.com/invisibleloop/pkgbmp/compare/v1.1.8...v1.1.9) (2023-05-03)
 
 
