@@ -21,7 +21,7 @@
     "npm": ">=9.3.1"
   },
   "keywords": [
-    "clii",
+    "cli",
     "command-line",
     "terminal",
     "console"
