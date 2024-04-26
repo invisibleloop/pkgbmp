@@ -22,5 +22,5 @@ export default (packageJsonPath, updatedPackages, newFile, latest) => {
     ? path.join(path.dirname(packageJsonPath), `package.json.${latest ? 'latest' : 'wanted'}`)
     : packageJsonPath;
 
-  fs.writeFileSync(outputPath, JSON.stringify(packageJson, null, 2));
+  fs.writeFileSync(outputPath, JSON.stringify(packageJson, null, 2) + '\n');
 }
